@@ -1,3 +1,12 @@
+## To-Do
+
+- [ ] refresh button that goes to the current city weather details
+- [ ] the splashscreen.xml not displaying
+- [ ] additional work if possible
+
+
+
+
 ## Simple Weather App
 ### Requirements:
 - JDK 8
