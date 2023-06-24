@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="llsearchicon" type="id" />
+    <item name="progressbar" type="id" />
+    <item name="RLNoInternet" type="id" />
+    <item name="NoInternetImage" type="id" />
+    <item name="NoInternetHeadingTV" type="id" />
+    <item name="NoInternettext" type="id" />
+    <item name="TryAgainBtn" type="id" />
+    <item name="blockclr" type="id" />
+    <item name="llsearchbar" type="id" />
+    <item name="llcityinput" type="id" />
+    <item name="leftside" type="id" />
+    <item name="homell" type="id" />
+    <item name="Cityname" type="id" />
+    <item name="TVdate_and_time" type="id" />
+    <item name="TVtemprature" type="id" />
+    <item name="TVTempFeel" type="id" />
+    <item name="lledittxtcityinput" type="id" />
+    <item name="TVtempicon" type="id" />
+    <item name="TVcurrwea" type="id" />
+    <item name="TVforcasttxt" type="id" />
+    <item name="RVforecastcards" type="id" />
+</resources>
